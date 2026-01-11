@@ -1,0 +1,13 @@
+Hotel Reservation System
+
+Features:
+- Search hotel rooms
+- Room categorization
+- Book and cancel reservations
+- Payment simulation
+- Booking details view
+- OOP and File I/O based
+
+Technology:
+- Java
+- Console-based
